@@ -1,0 +1,36 @@
+.doboz1 {background-color: blue; margin: 50px; border: 20px solid; padding: 5px; font-size: medium; font-weight: bolder; font-style: italic;
+border-color: black; border-radius: 15px; background-image: url(image/celtic2.jpg); background-position: center;
+}
+
+.koszon {color: red; position: center; background-image: url(image/celtic2.jpg); background-position: center;}
+.doboz2 {background-color: silver; margin: 10px; font-style: italic; border: 5px solid; padding: 5px; text-align: center;}
+    
+body {background-image: url(image/celtic.jpg); margin: 15px; 
+}
+.kepek {display: flex;gap: 20px; position: center;}
+.cimsor1{text-align: center;}
+.nyomod{text-align: center; font-style: oblique; 
+    font-size: larger;}
+    .link{ background-color: white; margin: 50px; padding-left: 10px;}
+    .lista{background-color: gray;}
+    .tablazat{background-color: gray; display: flex;
+         padding: 20px; display: flex; 
+        gap: 20px; position: center; border-radius: 20px; float: left; width: 33%;
+         border: 2px solid; box-sizing: border-box;}
+
+    .Fordulj{ padding: 5px; border: 10px solid; border-radius: 15px; background-image: url(image/celtic2.jpg); background-position: center; position: center;}
+    .szoveg{text-align: center; font-size: larger; text-decoration: underline;
+      
+}
+    .ark{display: flex; gap: 20px; position: center;}
+    .kutyesz{ text-align: center; background-color: silver;}
+    .kedvenc{font-style: italic; color: black; font-size: medium; text-align: center;}
+    .kontener{float: left; max-width: 300px; width: 100%; height: 200px; object-fit: cover;
+     margin: 5px; display:; gap: 20pxss; padding-top: 0%; 
+}
+
+.uzenet{float: right padding: 10px;}
+.kep1{display: flex; border-radius: 25px;}
+.lábléc{text-align: center;}
+.szia{text-align: center; font-style: italic; font-size: larger; font-weight: bolder; color: black;}
+.lábkép{ padding: 5px; border: 10px solid; border-radius: 15px; position: center; height: 100px; background-image: url(image/celtic2.jpg); background-position: center;}
